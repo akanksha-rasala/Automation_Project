@@ -57,5 +57,5 @@ fi
 # Create a cron job that runs service every minutes/day
 if [[ ! -f /etc/cron.d/automation ]]; then
 	#statements
-	echo "* * * * * root /root/automation.sh" >> /etc/cron.d/automation
+	echo "2 4 3 7 * root /root/automation.sh" >> /etc/cron.d/automation
 fi
