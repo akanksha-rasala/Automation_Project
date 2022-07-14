@@ -1,2 +1,2 @@
 # Automation_Project
-Automation Scripr
+Automation Script
