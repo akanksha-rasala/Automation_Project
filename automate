@@ -1,5 +1,5 @@
 docroot="/var/www/html"
-# Check if inventory file exists
+# Check if inventory file exist
 if [[ ! -f ${docroot}/inventory.html ]]; then
 	#statements
 	echo -e 'Log Type\t-\tTime Created\t-\tType\t-\tSize' > ${docroot}/inventory.html
