@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables
-name="tayyab"
-s3_bucket="your_bucket"
+name="akanksha"
+s3_bucket="upgrade-akanksha"
 
 # update the ubuntu repositories
 apt update -y
