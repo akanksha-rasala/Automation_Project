@@ -4,7 +4,7 @@
 name="akanksha"
 s3_bucket="upgrade-akanksha"
 
-# updating the ubuntu repositories
+# update the ubuntu repositories
 apt update -y
 
 # Check if apache2 is installed
